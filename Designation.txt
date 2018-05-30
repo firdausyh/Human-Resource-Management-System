@@ -1,7 +1,0 @@
-Design_Id	Designation	Desig_Description
-1	Project Manager	Project Manager
-2	Software Developer	Software Developer
-3	Team Leader	Team Leader
-4	Business Analyst	Business Analyst
-5	Design Engineer	Design Engineer
-6	Tech Lead	Tech Lead
