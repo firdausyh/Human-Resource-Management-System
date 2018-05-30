@@ -1,0 +1,42 @@
+Country_Id	Country_Name
+1	Afghanistan
+2	Albania
+3	Algeria
+4	Andorra
+5	Australia
+6	Austria
+7	Brazil
+8	Bangladesh
+9	China
+10	Chile
+11	Denmark
+12	Egypt
+13	Ethiopia
+14	France
+15	Finland
+16	Germany
+17	Georgia
+18	Greece
+19	Hong Kong
+20	Hungary
+21	India
+22	Ireland
+23	Japan
+24	Kuwait
+25	Kenya
+26	Luxembourg
+27	Mexico
+28	Nepal
+29	Oman
+30	Poland
+31	Qatar
+32	Russia
+33	South Africa
+34	Switzerland
+35	Syria
+36	Thailand
+37	United States
+38	Uganda
+39	Vietnam
+40	Yemen
+41	Zimbabwe
