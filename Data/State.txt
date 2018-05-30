@@ -1,0 +1,56 @@
+State_Id	Country_Id	State_Name
+1	1	Badakhshan
+2	1	Badghis
+3	1	Baghlan
+4	2	Berat
+5	2	Diber
+6	2	Durres
+7	3	Adrar
+8	3	Blida
+9	3	Tipaza
+10	4	Canillo
+11	4	Ordino
+12	5	Tasmania
+13	5	Victoria
+14	6	Burgenland
+15	6	Tirol
+16	7	Bahia
+17	7	Roraima
+18	8	Dhaka
+19	9	Jilin
+20	10	Atacama
+21	11	Capital
+22	12	Suhaj
+23	13	Tigray
+24	14	Auvergne
+25	15	South Savo
+26	16	Bremen
+27	17	Ajaria
+28	18	Crete
+29	19	Eastern District
+30	20	BaranyaMegye
+31	21	Kerala
+32	22	Cavan
+33	23	Akita
+34	24	Hawalli
+35	25	Central
+36	26	Diekirch
+37	27	Colima
+38	28	Eastern
+39	29	Dhofar
+40	30	Lodzkie
+41	31	Al Khawr
+42	32	Altay
+43	33	Free State
+44	34	Bern
+45	35	Idlib
+46	36	Chai Nat
+47	37	Alaska
+48	37	Texas
+49	37	New York
+50	37	California
+51	38	Abim
+52	39	Bac Can
+53	40	Ataq
+54	41	Bulawayo
+56	37	New Jersey
